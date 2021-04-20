@@ -1,0 +1,13 @@
+﻿  UI.cpp
+C:\Users\Alex\Desktop\fac\an1\sem2\oop\lab8-11\lab8-11\Repo.h(16,38): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Alex\Desktop\fac\an1\sem2\oop\lab8-11\lab8-11\Repo.h(17,39): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Alex\Desktop\fac\an1\sem2\oop\lab8-11\lab8-11\Validator.h(7,42): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  lab8-11.cpp
+C:\Users\Alex\Desktop\fac\an1\sem2\oop\lab8-11\lab8-11\Repo.h(16,38): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Alex\Desktop\fac\an1\sem2\oop\lab8-11\lab8-11\Repo.h(17,39): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Alex\Desktop\fac\an1\sem2\oop\lab8-11\lab8-11\Validator.h(7,42): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Alex\Desktop\fac\an1\sem2\oop\lab8-11\lab8-11\ValidateShow.h(7,34): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Alex\Desktop\fac\an1\sem2\oop\lab8-11\lab8-11\ValidateFilm.h(7,34): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Alex\Desktop\fac\an1\sem2\oop\lab8-11\lab8-11\ValidateArtist.h(7,34): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Generating Code...
+  lab8-11.vcxproj -> C:\Users\Alex\Desktop\fac\an1\sem2\oop\lab8-11\Debug\lab8-11.exe
